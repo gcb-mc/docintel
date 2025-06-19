@@ -1,4 +1,4 @@
-# AI Code Conversion and Validation
+# AI Document Classification and Extraction
 
 ---
 
@@ -70,3 +70,7 @@ Contains:
   - Azure AI Foundry
   - Storage Account and Blob Container
   - Labeled training data (minimum 5 documents per class)
+ 
+## License
+
+See the LICENSE file for details.
