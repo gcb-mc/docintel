@@ -27,12 +27,12 @@ Location:
 Contains:
 
 ## Features
--- **Multi-Environment Support**: Seamless integration with Azure AI Foundry and Document Intelligence Studio for classification workflows.
--- **Custom Classification Models**: Train and deploy models to classify documents by type using labeled folders and Azure Blob Storage.
--- **No-Code Studio Interface**: Use Document Intelligence Studio to build, train, and test classifiers without writing code.
--- **Content Understanding Integration**: Chain classification output into Azure AI Foundry’s Content Understanding for schema-based extraction and downstream processing.
--- **Scalable Architecture**: Supports large-scale document ingestion and classification with confidence scoring and schema validation.
--- **Extensible Framework**:
+- **Multi-Environment Support**: Seamless integration with Azure AI Foundry and Document Intelligence Studio for classification workflows.
+- **Custom Classification Models**: Train and deploy models to classify documents by type using labeled folders and Azure Blob Storage.
+- **No-Code Studio Interface**: Use Document Intelligence Studio to build, train, and test classifiers without writing code.
+- **Content Understanding Integration**: Chain classification output into Azure AI Foundry’s Content Understanding for schema-based extraction and downstream processing.
+- **Scalable Architecture**: Supports large-scale document ingestion and classification with confidence scoring and schema validation.
+- **Extensible Framework**:
   - 🔄 Adaptable for various document types and formats
   - 🎯 Supports custom folder structures and labeling strategies
   - 🧩 Modular design for integrating with downstream AI services
