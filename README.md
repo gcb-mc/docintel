@@ -8,7 +8,7 @@
 ---
 A demo and guide for setting up and using Document Intelligence for custom classification, with integration into content understanding and other workflows. This beginner friendly repository provides:
 - Step-by-step guide to implementing a Document Intelligence Classification use case using Microsoft Azure.
-- Integration for further extraction using Conten Understanding in Microsoft Azure Foundry.
+- Integration for further extraction using Content Understanding in Microsoft Azure Foundry.
 - Model evaluation using custom notebook to generate accuracy metrics.
 ---
 
